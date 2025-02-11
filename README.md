@@ -14,3 +14,8 @@
         </section>    
 
 nota el type ="password" es para un campo para esconder las letras
+
+# etiquetas 
+
+<label> Ingrese su usuario</label> sirve para colocar las etiquetas 
+ <input type="password" placeholder="Ingrese contraseña" />  el placeholder coloca el comentario dentro dewl campo 
